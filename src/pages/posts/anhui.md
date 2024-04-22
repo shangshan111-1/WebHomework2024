@@ -3,7 +3,7 @@ layout: '../../layouts/MarkdownPost.astro'
 title: '大美黄山'
 pubDate: 2035-03-25
 description: '黄山风景介绍'
-author: 'chen xiao'
+author: 'Chen Xiao'
 cover:
     url: 'https://img2.baidu.com/it/u=3795876081,848637865&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=752'
     square: 'https://img2.baidu.com/it/u=3795876081,848637865&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=752'

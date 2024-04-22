@@ -21,8 +21,7 @@ meta:
 
 keywords: key1, key2, key3
 ---
-
-![绝美迎客松。|wide](https://i.pinimg.com/564x/40/68/0d/40680dbd71c644daa778a8bf6e437382.jpg)
+![绝美。|wide](https://5b0988e595225.cdn.sohucs.com/images/20190926/eb3422358c4f4812aecdd5513d72cae5.jpeg)
 
 ## 概述
 - **中文名**：黄山风景区
@@ -42,7 +41,7 @@ keywords: key1, key2, key3
 ## 主要景点
 - **松谷景区**：
 
-![松谷景区。|big](https://i.pinimg.com/564x/1a/e7/16/1ae716e852b586a62dda846f09cfec05.jpg)
+![松谷景区。|inline](https://i.pinimg.com/564x/1a/e7/16/1ae716e852b586a62dda846f09cfec05.jpg)
 
 - **玉屏景区**：
 以玉屏楼为中心，莲花峰和天都峰为主体，驰名中外的迎客松挺立在此。
@@ -71,7 +70,7 @@ keywords: key1, key2, key3
 ### 3. 温泉
 黄山温泉是当地的一大特色。黄山地区地质构造复杂，温泉资源十分丰富。黄山温泉水含有多种对人体有益的矿物质，被认为具有养生保健的功效。在黄山游玩之后，泡上一缸黄山温泉，舒缓疲劳，倍感惬意。
 
-![温泉。|inline](https://i.pinimg.com/564x/40/7f/81/407f8113a12c1caf0902d3f6d3667283.jpg)
+![温泉。|big](https://i.pinimg.com/564x/40/7f/81/407f8113a12c1caf0902d3f6d3667283.jpg)
 ## 历史文化
 
 ### 1. 道教文化
@@ -87,7 +86,7 @@ keywords: key1, key2, key3
 ![索道。|big](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/%E5%AE%89%E5%BE%BD_%E9%BB%84%E5%B1%B1_-_%E4%BA%91%E8%B0%B7%E7%BC%86%E8%BD%A6%E5%86%85%E5%89%8D%E6%9C%9B_-_panoramio.jpg/1024px-%E5%AE%89%E5%BE%BD_%E9%BB%84%E5%B1%B1_-_%E4%BA%91%E8%B0%B7%E7%BC%86%E8%BD%A6%E5%86%85%E5%89%8D%E6%9C%9B_-_panoramio.jpg)
 ### 2. 步道
 除了索道外，黄山还建有多条登山步道，供游客徒步登山。这些步道蜿蜒曲折，沿途风景秀丽，游客可以一边徒步一边欣赏黄山的美景，体验登山的乐趣。
-![步道。|inline](https://i.pinimg.com/564x/4b/df/c3/4bdfc3765818723f64479483d6c80a91.jpg)
+![步道。|big](https://i.pinimg.com/564x/4b/df/c3/4bdfc3765818723f64479483d6c80a91.jpg)
 总的来说，黄山以其壮美的自然风光、悠久的历史文化和完善的旅游设施吸引着无数游客前来观光旅游。无论是追寻自然景观，还是感受历史文化，黄山都能带给游客别样的体验和感受。
 
 
